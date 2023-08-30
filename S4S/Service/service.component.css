@@ -1,0 +1,164 @@
+#start { 
+    margin-top: 90px;
+
+}
+
+#side { 
+    float : right;
+}
+.r1,.r2,.r3,.r4,.r5,.r6 { 
+    height: 12px;
+    background:  linear-gradient(90deg, #A634FF 0%, rgba(228, 143, 255, 0.29) 47.40%, rgba(250, 243, 255, 0.00) 100%);
+    margin-left: -12px;
+}
+
+.r1,.r6 { 
+    width: 687px;
+}
+
+.r2,.r5  { 
+    width: 338px;
+}
+
+.r3,.r4 { 
+    width: 179px;
+}
+
+.r4,.r5,.r6 {
+    transform: scaleX(-1);
+    float: right;
+}
+
+.elli { 
+    width: 332px;
+    height: 332px;
+    border-radius: 332px;
+    background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+    filter: blur(194.5px);
+    position: absolute;
+    flex-shrink: 0;
+    top: 5%;
+    margin-left: 500px;
+}
+
+h1 {
+    color:white;
+    font-family: 'Urbanist';
+    font-weight: 800;
+    font-style: normal;
+    line-height: normal;
+    font-size: 50px;
+    margin-left: 559px;
+}
+
+.about {
+    padding: 59px;
+}
+.head { 
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.cont {
+     width: 462px;
+     color: #FFF;
+     font-family: Urbanist;
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 36px;
+}
+
+.side { 
+    width: 610px;
+    height: 530px;
+    padding: 52px;
+    border-radius: 70px;
+}
+
+.btn { 
+    border-radius: 6px;
+    background: #FF891D;
+}
+
+.text,.text2 { 
+    color: #FFF;
+    font-family: Urbanist;
+    font-style: normal;
+    line-height: normal;
+    display: inline-flex;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.text { 
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.text2 { 
+    font-weight: 600;
+    font-size: 24px;
+}
+.elli1 {
+    width: 681px;
+    height: 681px;
+    flex-shrink: 0;
+    border-radius: 681px;
+    background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+    filter: blur(187px);
+    position: absolute;
+    margin-top: 160px;
+    margin-left: -530px;
+    z-index: -1;
+}
+
+.elli2 { 
+    width: 681px;
+    height: 681px;
+    flex-shrink: 0;
+    border-radius: 681px;
+    background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+    filter: blur(187px);
+    position: absolute;
+    margin-top: 71px;
+    margin-left: 1167px;
+    z-index: -1;
+}
+
+#foot { 
+    background: linear-gradient(90deg, #FF891D 0%, #FFD300 100%);
+    width: 1512px;
+    height: 136px;
+}
+
+.footc { 
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    margin-left: 70px;
+    line-height: normal;
+}
+
+.btn2 { 
+    width: 300px;
+    height: 50px;
+    border-radius: 6px;
+    background: #FF891D;
+    margin-top: 35px;
+}
+
+#ft { 
+   background-color:  #0E0E0E;
+   height: 350px;
+   
+}
