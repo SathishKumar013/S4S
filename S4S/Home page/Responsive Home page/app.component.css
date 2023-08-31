@@ -1,0 +1,221 @@
+
+@media only screen and  (min-width:1001px){
+       
+.bn5{
+    margin-top: 40px;
+    float: right;
+}
+.bn3{
+    background: rgba(255, 255, 255, 0.20); 
+    backdrop-filter: blur(10px); 
+    width:90%;
+    height:50px;
+    border-radius: 10px;
+    margin-bottom: 60px;
+    margin-top: 35px;
+    padding-top: 10px;
+}
+
+.button1{ 
+    color:white;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left:40px;
+}
+.button1:hover{
+    color:aqua;
+}
+.button2{
+    color:white;
+    text-decoration: none;
+    cursor: pointer;
+    font-size:30px;
+}
+.button2:hover{
+    color:aqua;
+}
+.button3{
+    float: right;
+}
+.button4{
+    float: right;
+       margin-top: 50px;
+}
+
+
+
+
+
+
+#foot { 
+    background: linear-gradient(90deg, #FF891D 0%, #FFD300 100%);
+    width: 100%;
+    height: 106px;
+}
+
+.footc { 
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 900;
+    margin-left: 70px;
+    line-height: normal;
+}
+
+.btn2 { 
+    width: 260px;
+    height: 42px;
+    border-radius: 8px;
+    background: #FF891D;
+    margin-top: 32px;
+    margin-left: 146px;
+}
+
+#ft { 
+   background-color:  #0E0E0E;
+   width: 100%;
+   
+}
+
+.comp { 
+    position: absolute;
+    width: 400px;
+    color: white;
+    margin-top: -80px;
+    margin-left: 80px;
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.let { 
+    color: #FF891D;
+    font-family: Mukta;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+ .vec { 
+    margin-left: 8px;
+
+ } 
+.flogo { 
+    width: 65px;
+    height: 74px;
+    margin-top: 60px;
+}
+
+.fcont { 
+    color: #FFF;
+    width: 320px;
+    font-family: Urbanist;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 15px;
+    line-height: 32px;
+}
+
+.icon1,.icon2,.icon3{ 
+   width: 50px;
+   height: 30px;
+   margin-top: 17px;
+}
+
+h3 { 
+    color: #FF891D;
+    font-family: Mukta;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.ft,.ft0 { 
+    margin-top: 92px; 
+}
+
+.ft0 { 
+    padding-left: 60px;
+}
+
+.ftext {
+    text-decoration: none;
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 36px;
+}
+
+.ftext1 {
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 25px;
+}
+
+.cr { 
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px; 
+}
+.mobileview{
+    display:none
+}
+}
+
+@media only screen and (min-width:501px)and (max-width:1000px){
+.pcview{
+    display: none;
+}
+.mbimg1{
+    width: 50px;
+    height:auto;
+    margin-top: 30px;
+    margin-left:50px;
+    z-index: 1;
+}
+.mbimg2{
+    width: 50px;
+    height:auto;
+    margin-top: 40px;
+    margin-right:50px;
+    float:right;
+    cursor: pointer;
+    z-index: 1;
+}
+}
+@media only screen and (max-width:500px){
+    .pcview{
+        display: none;
+    }
+    .mbimg1{
+        width: 35px;
+        height:auto;
+        margin-top: 20px;
+        margin-left:20px;
+        z-index: 1;
+    }
+    .mbimg2{
+        width: 30px;
+        height:auto;
+        float:right;
+        margin-top: 27px;
+        margin-right:20px;
+        cursor: pointer;
+        z-index: 1;
+    }   
+}
+
