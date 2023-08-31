@@ -1,0 +1,567 @@
+@media only screen and (min-width: 776px) {
+    
+
+#start { 
+    margin-top: 90px;
+
+}
+
+#side { 
+    float : right;
+}
+.r1,.r2,.r3,.r4,.r5,.r6 { 
+    height: 12px;
+    background:  linear-gradient(90deg, #A634FF 0%, rgba(228, 143, 255, 0.29) 47.40%, rgba(250, 243, 255, 0.00) 100%);
+    margin-left: -12px;
+}
+
+.r1,.r6 { 
+    width: 687px;
+}
+
+.r2,.r5  { 
+    width: 338px;
+}
+
+.r3,.r4 { 
+    width: 179px;
+}
+
+.r4,.r5,.r6 {
+    transform: scaleX(-1);
+    float: right;
+}
+
+.elli { 
+    width: 332px;
+    height: 332px;
+    border-radius: 332px;
+    background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+    filter: blur(194.5px);
+    position: absolute;
+    flex-shrink: 0;
+    top: 19%;
+    margin-left: 480px;
+}
+
+h1 {
+    color:white;
+    font-family: 'Urbanist';
+    font-weight: 800;
+    font-style: normal;
+    line-height: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.about {
+    padding: 59px;
+}
+
+.head { 
+    color: #ee9d11;
+    font-family: Urbanist;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.cont {
+     width: 462px;
+     color: #FFF;
+     font-family: Urbanist;
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 36px;
+}
+ .s1,.ft1,.head3  { 
+    display: none;
+
+ }
+
+.side { 
+    width: 510px;
+    height: 380px;
+    padding: 60px;
+    border-radius: 70px;
+}
+
+
+.text2 { 
+    color: #FFF;
+    font-family: Urbanist;
+    font-style: normal;
+    line-height: normal;
+    display: inline-flex;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.elli1,.elli4 {
+    width: 681px;
+    height: 681px;
+    flex-shrink: 0;
+    border-radius: 681px;
+    background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+    filter: blur(187px);
+    position: absolute;
+    margin-top: 160px;
+    margin-left: -600px;
+    z-index: -1;
+}
+
+.elli2,.elli3 { 
+    width: 681px;
+    height: 681px;
+    flex-shrink: 0;
+    border-radius: 681px;
+    background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+    filter: blur(187px);
+    position: absolute;
+    margin-top: 71px;
+    margin-left: 1167px;
+    z-index: -1;
+}
+
+
+
+#foot { 
+    background: linear-gradient(90deg, #FF891D 0%, #FFD300 100%);
+    width: 1512px;
+    height: 106px;
+    margin-left: -140px;
+}
+
+.footc { 
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 900;
+    margin-left: 110px;
+    line-height: normal;
+}
+
+.btn2 { 
+    width: 260px;
+    height: 42px;
+    border-radius: 8px;
+    background: #FF891D;
+    margin-top: 32px;
+    margin-left: 146px;
+}
+
+#ft { 
+   background-color:  #0E0E0E;
+   width: 1380px;
+   margin-left: -150px;
+   
+}
+
+.comp { 
+    position: absolute;
+    width: 400px;
+    color: white;
+    margin-top: -80px;
+    margin-left: 80px;
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.let { 
+    color: #FF891D;
+    font-family: Mukta;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+ .vec { 
+    margin-left: 8px;
+
+ } 
+.flogo { 
+    width: 65px;
+    height: 74px;
+    margin-top: 60px;
+}
+
+.fcont { 
+    color: #FFF;
+    width: 320px;
+    font-family: Urbanist;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    margin-top: 15px;
+    line-height: 32px;
+}
+
+.icon1,.icon2,.icon3{ 
+   width: 50px;
+   height: 40px;
+   margin-top: 17px;
+}
+
+h3 { 
+    color: #FF891D;
+    font-family: Mukta;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.ft,.ft0 { 
+    margin-top: 92px; 
+}
+
+.ft0 { 
+    padding-left: 60px;
+}
+
+.ftext {
+    text-decoration: none;
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 36px;
+}
+
+.ftext1 {
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: 36px;
+}
+
+.cr { 
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px; 
+}
+
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+    
+
+        #start { 
+            margin-top: 90px;
+        
+        }
+        
+        #side { 
+            float : right;
+            position: absolute;
+      
+        }
+        .r1,.r2,.r3,.r4,.r5,.r6 { 
+            height: 8px;
+            background:  linear-gradient(90deg, #A634FF 0%, rgba(228, 143, 255, 0.29) 47.40%, rgba(250, 243, 255, 0.00) 100%);
+            margin-left: -11px;
+            margin-bottom: -13px;
+        }
+        
+        .r1,.r6 { 
+            width: 343px;
+        }
+        
+        .r2,.r5  { 
+            width: 169px;
+        }
+        
+        .r3,.r4 { 
+            width: 90px;
+        }
+        
+        .r4,.r5,.r6 {
+            transform: scaleX(-1);
+            float: right;
+        }
+
+        .r5 { 
+            margin-top: -26px;
+        }
+
+        .r6 { 
+            margin-top: -53px;
+        }
+       
+        
+        .elli { 
+            overflow-x: hidden;
+            width: 166px;
+            height: 166px;
+            border-radius: 166px;
+            background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+            filter: blur(97.25px);
+            position: absolute;
+            flex-shrink: 0; 
+            top: 11%;
+            margin-left: 120px;
+        }
+        
+        h1 {
+            color:white;
+            font-family: 'Urbanist';
+            font-weight: 800;
+            font-style: normal;
+            line-height: normal;
+            font-size: 23px;
+            text-align: center;
+        }
+        
+        .about {
+            padding: 0px;
+        }
+        
+        .head { 
+            color: #ee9d11;
+            font-family: Urbanist;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            display: flex;
+            justify-content: center;
+        }
+        
+        
+        .cont {
+            width: 350px;
+            height: 251px;
+            color: #FFF;
+            font-family: Urbanist;
+            font-size: 17px;
+            font-style: normal;
+            font-weight: 200;
+            line-height: 24px;
+            padding-left: 28px;
+            text-align: justify;
+        }
+
+
+        .no1,.bre,.bre3,.ft0,.he3  {
+             display: none;
+        }
+        
+
+
+        .side { 
+            width: 400px;
+            height: 400px;
+            border-radius: 75px;
+            padding: 59px
+        }
+        
+        
+        .text2 { 
+            color: #FFF;
+            font-family: Urbanist;
+            font-style: normal;
+            line-height: normal;
+            display: inline-flex;
+            padding: 5px 10px;
+            justify-content: center;
+            align-items: center;
+            gap: 5px;
+             font-weight: 600;
+             font-size: 19px;
+        }
+        
+        .elli1,.elli4 {
+            width: 340px;
+            height: 340px;
+            flex-shrink: 0;
+            border-radius: 340px;
+            background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+            filter: blur(93.5px);
+            position: absolute;
+            margin-top: 80px;
+            margin-left: -300px;
+            z-index: -1;
+        }
+        
+        .elli2,.elli3 { 
+            width: 340px;
+            height: 340px;
+            flex-shrink: 0;
+            border-radius: 340px;
+            background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+            filter: blur(187px);
+            position: absolute;
+            margin-top: 35px;
+            margin-left: 584px;
+            z-index: -1;
+        }
+        
+        
+        
+        #foot { 
+            background: linear-gradient(176deg, #FF8100 2%, #FFD100 96.22%);
+            background: linear-gradient(176deg, color(display-p3 1 0.5385 0.1125) 2%, color(display-p3 1 0.8275 0) 96.22%);
+            width: 114%;
+            height: 170px;
+            margin-left: -25px;
+    }
+        
+        .footc { 
+            color: #FFF;
+    font-family: Urbanist;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    width: 86%;
+    margin-top: 12px;
+    margin-left: 13px;
+    line-height: normal;
+        }
+        
+        .btn2 { 
+            width: 59%;
+            height: 46px;
+            border-radius: 3px;
+            background: #FF891D;
+            margin-top: 10px;
+        }
+        
+        #ft { 
+            background: linear-gradient(180deg, #09001F 0%, #1E0621 100%);
+background: linear-gradient(180deg, color(display-p3 0.0275 0 0.1137) 0%, color(display-p3 0.1059 0.0275 0.1255) 100%);
+            width: 113%;
+            margin-left: -23px;
+           
+        }
+        
+        .comp { 
+            position: absolute;
+    width: 311px;
+    color: white;
+    margin-top: 21px;
+    margin-left: 40px;
+    font-family: Urbanist;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+        }
+        
+        .let { 
+            color: #FF891D;
+            font-family: Mukta;
+            font-size: 23px;
+            font-style: normal;
+            font-weight: 500;
+            float: left;
+            margin-left: 30px;
+            line-height: normal;
+        }
+         .vec { 
+            margin-left: 4px;
+        
+         } 
+        .flogo { 
+            width: 57px;
+            height: 59px;
+            margin-top: 29px;
+            float: left;
+        }
+        
+        .fcont { 
+            color: #FFF;
+            width: 80%;
+            font-family: Urbanist;
+            font-size: 19px;
+            font-style: normal;
+            text-align: initial;
+            font-weight: 300;
+            margin-top: 110px;
+            line-height: 29px;
+        }
+        
+        .icon1,.icon2,.icon3{ 
+            width: 46px;
+            height: 34px;
+            margin-top: 7px;
+            float: left;
+        }
+        
+        h3,.head3 { 
+            color: #FF891D;
+            font-family: Mukta;
+            font-size: 26px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+        }
+        
+        .ft,.ft1 { 
+            margin-top: 160px; 
+            padding-right: 260px;
+            position: relative;
+        }
+        
+        .ft0 { 
+            padding-right: 260px;
+            position: absolute;
+            margin-top: 320px;
+        }
+        
+        .ftext,.ft2 {
+            text-decoration: none;
+            width: 203px;
+            color: #FFF;
+            font-family: Urbanist;
+            float: left;
+            font-size: 20px;
+            text-align: initial;
+            font-style: normal;
+            font-weight: 200;
+            line-height: 36px;
+        
+        }
+        
+        .ftext1 {
+            color: #FFF;
+            font-family: Urbanist;
+            font-size: 19px;
+            font-style: normal;
+            font-weight: 200;
+            line-height: 36px;
+        }
+        
+        .cr { 
+            color: #FFF;
+            font-family: Urbanist;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 36px; 
+        }
+        
+        }
+        
+        
+     
