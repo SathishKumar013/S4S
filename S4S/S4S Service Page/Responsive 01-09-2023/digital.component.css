@@ -1,0 +1,519 @@
+
+#start { 
+    margin-top: 90px;
+
+}
+
+.s1,.bre3,.s2,.head4,.ft3  { 
+    display: none;
+ }
+
+#side { 
+    float : right;
+}
+.r1,.r2,.r3,.r4,.r5,.r6 { 
+    height: 12px;
+    background:  linear-gradient(90deg, #A634FF 0%, rgba(228, 143, 255, 0.29) 47.40%, rgba(250, 243, 255, 0.00) 100%);
+    margin-left: -12px;
+}
+
+.r1,.r6 { 
+    width: 687px;
+}
+
+.r2,.r5  { 
+    width: 338px;
+}
+
+.r3,.r4 { 
+    width: 179px;
+}
+
+.r4,.r5,.r6 {
+    transform: scaleX(-1);
+    float: right;
+}
+
+.elli { 
+    width: 332px;
+    height: 332px;
+    border-radius: 332px;
+    background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+    filter: blur(194.5px);
+    position: absolute;
+    flex-shrink: 0;
+    top: 19%;
+    margin-left: 480px;
+}
+
+h1 {
+    color:white;
+    font-family: 'Urbanist';
+    font-weight: 800;
+    font-style: normal;
+    line-height: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.about,.about1 {
+    padding: 59px;
+}
+
+.head,.head1 { 
+    color: #ee9d11;
+    font-family: Urbanist;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.cont,.cont1 {
+     width: 462px;
+     color: #FFF;
+     font-family: Urbanist;
+     font-size: 24px;
+     font-style: normal;
+     font-weight: 400;
+     line-height: 36px;
+}
+ .s1,.ft1,.head3,.bre3,.s2  { 
+    display: none;
+
+ }
+
+.side,.side4 { 
+    width: 494px;
+    height: 410px;
+    padding: 60px;
+    border-radius: 70px;
+}
+
+
+.text2 { 
+    color: #FFF;
+    font-family: Urbanist;
+    font-style: normal;
+    line-height: normal;
+    display: inline-flex;
+    padding: 10px 20px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.elli1,.elli4 {
+    width: 681px;
+    height: 681px;
+    flex-shrink: 0;
+    border-radius: 681px;
+    background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+    filter: blur(187px);
+    position: absolute;
+    margin-top: 160px;
+    margin-left: -600px;
+    z-index: -1;
+}
+
+.elli2,.elli3 { 
+    width: 681px;
+    height: 681px;
+    flex-shrink: 0;
+    border-radius: 681px;
+    background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+    filter: blur(187px);
+    position: absolute;
+    margin-top: 71px;
+    margin-left: 1167px;
+    z-index: -1;
+}
+ 
+.serve { 
+    color: #ee9d11;
+    font-family: Urbanist;
+    font-size: 34px;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    line-height: normal;
+ }
+
+ .indu { 
+    display: flex;
+    justify-content: center;
+     color: #FFF;
+     font-family: Urbanist;
+     font-size: 21px;
+     text-align: center;
+     font-style: normal;
+     font-weight: 200;
+     line-height: 36px;
+ }
+
+ .card { 
+    height : 230px;
+    
+ }
+
+.icons1 { 
+    width:40px;
+    height:40px;
+} 
+
+ .title { 
+    color: #ee9d11;
+    font-family: Urbanist;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+ }
+
+ .para { 
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-family: Urbanist;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+ }
+
+
+@media only screen and (max-width: 992px) and (min-width:776px) {
+    
+body {
+    overflow-x: hidden;
+}
+
+.hello { 
+    width: 992px;
+    height: 100%;
+    overflow: hidden;
+}
+
+#start { 
+    margin-top: 90px;
+
+}
+
+#side { 
+    float : right;
+}
+.r1,.r2,.r3,.r4,.r5,.r6 { 
+    height: 14px;
+    background:  linear-gradient(90deg, #A634FF 0%, rgba(228, 143, 255, 0.29) 47.40%, rgba(250, 243, 255, 0.00) 100%);
+    margin-left: -12px;
+}
+
+.r1,.r6 { 
+    width: 687px;
+}
+
+.r2,.r5  { 
+    width: 338px;
+}
+
+.r3,.r4 { 
+    width: 179px;
+}
+
+.r4,.r5,.r6 {
+    transform: scaleX(-1);
+    float: right;
+}
+
+.elli { 
+    width: 332px;
+    height: 332px;
+    border-radius: 332px;
+    background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+    filter: blur(194.5px);
+    position: absolute;
+    flex-shrink: 0;
+    top: 11%;
+    margin-left: 498px;
+}
+
+h1 {
+    color:white;
+    font-family: 'Urbanist';
+    font-weight: 800;
+    font-style: normal;
+    line-height: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.about {
+    padding: 0px;
+}
+
+.about1 { 
+    margin-left: 65px;
+}
+
+.head,.head1  { 
+    color: #ee9d11;
+    font-family: Urbanist;
+    font-size: 34px;
+    font-style: normal;
+    margin-left: -12px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.cont,.cont1 {
+    width: 392px;
+    color: #FFF;
+    font-family: Urbanist;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+.cont { 
+    margin-left: -20px;
+}
+
+.cont1 {
+    margin-left: -8px;
+}
+
+ .s1,.bre3,.s2,.head4,.ft3  { 
+    display: none;
+ }
+
+
+.side { 
+    width: 495px;
+    height: 410px;
+    margin-top: -32px;
+    padding: 65px;
+    border-radius: 93px;
+}
+
+.side4 {
+    width: 500px;
+    height: 410px;
+    margin-top: -32px;
+    padding: 65px;
+    margin-left: -90px;
+    border-radius: 93px;
+     
+}
+
+}
+
+
+.elli1,.elli4 {
+    width: 681px;
+    height: 681px;
+    flex-shrink: 0;
+    border-radius: 681px;
+    background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+    filter: blur(187px);
+    position: absolute;
+    margin-top: 160px;
+    margin-left: -600px;
+    z-index: -1;
+}
+
+.elli2,.elli3 { 
+    display: none;
+}
+.elli2,.elli3 { 
+    width: 498px;
+    height: 510px;
+    flex-shrink: 0;
+    border-radius: 681px;
+    background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+    filter: blur(187px);
+    position: absolute;
+    overflow: hidden;
+    margin-left: 1018px;
+    z-index: -1;
+}
+
+
+
+@media only screen and (max-width: 425px) and (min-width:375px) {
+    
+
+        #start { 
+            margin-top: 90px;
+        
+        }
+        
+        #side { 
+            float : right;
+            position: absolute;
+      
+        }
+        .r1,.r2,.r3,.r4,.r5,.r6 { 
+            height: 8px;
+            background:  linear-gradient(90deg, #A634FF 0%, rgba(228, 143, 255, 0.29) 47.40%, rgba(250, 243, 255, 0.00) 100%);
+            margin-left: -11px;
+            margin-bottom: -13px;
+        }
+        
+        .r1,.r6 { 
+            width: 343px;
+        }
+        
+        .r2,.r5  { 
+            width: 169px;
+        }
+        
+        .r3,.r4 { 
+            width: 90px;
+        }
+        
+        .r4,.r5,.r6 {
+            transform: scaleX(-1);
+            float: right;
+        }
+
+        .r5 { 
+            margin-top: -26px;
+        }
+
+        .r6 { 
+            margin-top: -53px;
+        }
+       
+        
+        .elli { 
+            overflow-x: hidden;
+            width: 166px;
+            height: 166px;
+            border-radius: 166px;
+            background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+            filter: blur(97.25px);
+            position: absolute;
+            flex-shrink: 0; 
+            top: 11%;
+            margin-left: 120px;
+        }
+        
+        h1 {
+            color:white;
+            font-family: 'Urbanist';
+            font-weight: 800;
+            font-style: normal;
+            line-height: normal;
+            font-size: 23px;
+            text-align: center;
+        }
+        
+        .about {
+            padding: 0px;
+        }
+        
+        .head,.head1 { 
+            color: #ee9d11;
+            font-family: Urbanist;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            display: flex;
+            justify-content: center;
+        }
+        
+        
+        .cont,.cont1 {
+            width: 350px;
+            height: 251px;
+            color: #FFF;
+            font-family: Urbanist;
+            font-size: 17px;
+            font-style: normal;
+            font-weight: 200;
+            line-height: 24px;
+            padding-left: 45px;
+            text-align: justify;
+        }
+
+        .cont1  { 
+            margin-left: -60px;
+        }
+
+
+        .no1,.bre,.bre3,.he3,.elli2,.elli3,.ft0  {
+             display: none;
+        }
+        
+        .side1 { 
+            margin-top: 115px;
+        }
+
+
+        .side { 
+            width: 400px;
+            height: 400px;
+            border-radius: 75px;
+            padding: 59px
+        }
+        
+        
+        .text2 { 
+            color: #FFF;
+            font-family: Urbanist;
+            font-style: normal;
+            line-height: normal;
+            display: inline-flex;
+            padding: 5px 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 5px;
+             font-weight: 600;
+             font-size: 19px;
+        }
+        
+        .elli1,.elli4 {
+            width: 340px;
+            height: 340px;
+            flex-shrink: 0;
+            border-radius: 340px;
+            background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+            filter: blur(93.5px);
+            position: absolute;
+            margin-top: 80px;
+            overflow-x: hidden;
+         
+            margin-left: -300px;
+            z-index: -1;
+        }
+        
+        .elli2,.elli3 { 
+            width: 340px;
+            height: 340px;
+            flex-shrink: 0;
+            border-radius: 340px;
+            background: linear-gradient(180deg, #AA435C 0%, rgba(170, 67, 92, 0.00) 100%);
+            filter: blur(187px);
+            position: absolute;
+            overflow-x: hidden;
+            margin-top: 35px;
+            margin-left: 584px;
+            z-index: -1;
+        }
+        
+        .s2,.s1,.head { 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+  
+}    
+        
